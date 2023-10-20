@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DantonJesurajaA
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Machine LEarning
+- 🌱 I’m certified in Machine Learning, Applied Data Science using Python and Python for Data Science
 - 💞️ I’m looking to collaborate on Python codes for Machine Learning
 - 📫 How to reach me... https://www.linkedin.com/in/maria-nevis-danton-anton-b712b5218/
 - https://www.kaggle.com/dantonjesuraja
