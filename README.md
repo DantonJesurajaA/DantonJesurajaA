@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DantonJesurajaA
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m certified in Machine Learning, Applied Data Science using Python and Python for Data Science
+- 🌱 I have completed my PG program in AI and ML from Simplilearn in association with Purdue University
 - 💞️ I’m looking to collaborate on Python codes for Machine Learning
 - 📫 How to reach me... https://www.linkedin.com/in/maria-nevis-danton-anton-b712b5218/
 - https://www.kaggle.com/dantonjesuraja
